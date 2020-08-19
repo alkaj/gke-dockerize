@@ -1,5 +1,5 @@
 # Description
-  This small package is intended to make any static website(ie: made of html, css, js and assets) to be served by nginx from a Docker container making it easy and fast to deploy.
+  Optimized for Google Cloud Run(especially for Anthos), this small package is intended to make any static website(ie: made of html, css, js and assets) to be served by nginx from a Docker container making it easy and fast to deploy.
     
     
 # How to use ?
