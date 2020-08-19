@@ -1,6 +1,6 @@
 {
   "name": "gke-static-dockerizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make a simple nginx based container to show a static website, optimized for cloud run",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alkaj/dockerize.git"
+    "url": "git+https://github.com/alkaj/gke-dockerize.git"
   },
   "keywords": [
     "docker",
@@ -23,7 +23,7 @@
   "author": "Kamla Junior",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alkaj/dockerize/issues"
+    "url": "https://github.com/alkaj/gke-dockerize/issues"
   },
-  "homepage": "https://github.com/alkaj/dockerize#readme"
+  "homepage": "https://github.com/alkaj/gke-dockerize#readme"
 }
