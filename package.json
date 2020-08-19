@@ -1,0 +1,26 @@
+{
+  "name": "static-dockerizer",
+  "version": "1.0.13",
+  "description": "Make a simple nginx based container to show a static website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "mv Dockerfile .dockerignore ../../"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkaj/dockerize.git"
+  },
+  "keywords": [
+    "docker",
+    "nginx",
+    "static-website",
+    "dockerize"
+  ],
+  "author": "Kamla Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alkaj/dockerize/issues"
+  },
+  "homepage": "https://github.com/alkaj/dockerize#readme"
+}
